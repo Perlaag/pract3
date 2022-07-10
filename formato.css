@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Amatic+SC&family=Indie+Flower&family=Kiwi+Maru:wght@300&family=Play&display=swap');
+body {
+    padding: auto;
+    font-family: 'Open Sans', sans-serif;
+    background-image: url("img/estrellas.jpg");
+    background-color: transparent;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.img {
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin: auto;
+    margin-right: 20px;
+    margin-left: 250px;
+}
+
+.titul {
+    color: red
+}
+
+.Texto {
+    float: left;
+    text-align: center;
+    color: blue;
+    border-radius: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 300px;
+    height: 300px;
+}
+
+.contenedor {
+    width: 600px;
+    height: 150px;
+    float: left;
+    background-color: aquamarine;
+    text-align: center;
+    padding: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.contenedor2 {
+    width: 600px;
+    height: 150px;
+    float: right;
+    background-color: aquamarine;
+    text-align: center;
+    padding: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.contenedor-redes {
+    width: 200px;
+    height: 350px;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: auto;
+    float: left;
+    background-color: rgb(25, 8, 85);
+}
